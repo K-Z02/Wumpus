@@ -1,0 +1,64 @@
+[
+  {
+    "hos": {
+      "pozicio": 26,
+      "irany": "E",
+      "nyilak": 1,
+      "nalamVanAzArany": false
+    },
+    "labirintus": {
+      "elemek": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "_",
+        "_",
+        "_",
+        "P",
+        "W",
+        "W",
+        "U",
+        "G",
+        "P",
+        "_",
+        "W",
+        "W",
+        "_",
+        "_",
+        "_",
+        "_",
+        "W",
+        "W",
+        "_",
+        "_",
+        "P",
+        "_",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ],
+      "meretN": 6,
+      "aranyPozitcioja": 14,
+      "wumpusokSzama": 1,
+      "wumpusokHelye": [
+        13
+      ],
+      "vermekHelyzetete": [
+        10,
+        15,
+        27
+      ],
+      "hosStart": 25,
+      "irany": "E"
+    },
+    "mentettJatekNev": ""
+  }
+]
